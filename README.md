@@ -1,2 +1,3 @@
-# learning-digishow-pdf
-DigiShow Tutorials ( PDF )
+# DigiShow Tutorials ( PDF )
+
+Please find the downloadable PDF files in the Releases section.
